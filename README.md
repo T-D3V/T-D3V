@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**T-D3V/T-D3V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is **Timo Angst**
+I'm a apprentice SoftwareEngineer (Web Dev) and I like to work on every project I can get my hands on cause I like the experience.
+Right now I mainly develop Websites with PHP, JS, HTML, CSS, SASS.
 
-Here are some ideas to get you started:
+🔭 I work at the Moment at [HLI](https://hli.ch/) on plenty different Websites but mainly our own Content Management System.<br>
+💥 I've started Programming when I was 11 years old in java trying to create a hack client for minecraft (spoiler didn't work).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📯 How to reach me:
+  - [Mail](mailto:timo.angst@bluewin.ch)
+  - [LinkedIn](https://www.linkedin.com/in/timo-angst-279776231/)
+  - Discord: TD3V#0404
