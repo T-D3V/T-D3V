@@ -9,7 +9,9 @@ Right now I mainly develop Websites with PHP, JS, HTML, CSS, SASS.
 
 P.S. Not a lot of activity here cause I have a selfhosted gitlab and at work we use a selfhosted gitlab.
 
-<img src="https://wakatime.com/share/@TD3V/b34beb4c-0247-46de-b377-35ec6a9c3e88.svg">
+<p align="center" >
+  <img src="https://wakatime.com/share/@TD3V/b34beb4c-0247-46de-b377-35ec6a9c3e88.svg">
+</p>
 
 ### 📯 How to reach me:
   - [Mail](mailto:timo.angst@bluewin.ch)
