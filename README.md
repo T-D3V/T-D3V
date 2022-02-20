@@ -7,7 +7,7 @@ Right now I mainly develop Websites with PHP, JS, HTML, CSS, SASS.
 🔭 I work at the Moment at [HLI](https://hli.ch/) on plenty different Websites but mainly our own Content Management System.<br>
 💥 I've started Programming when I was 11 years old in java trying to create a hack client for minecraft (spoiler didn't work).
 
-P.S. Not a lot of activity here cause I have a selfhosted gitlaba and at work we use a selfhosted gitlab.
+P.S. Not a lot of activity here cause I have a selfhosted gitlab and at work we use a selfhosted gitlab.
 
 ### 📯 How to reach me:
   - [Mail](mailto:timo.angst@bluewin.ch)
