@@ -7,8 +7,6 @@ Right now I mainly develop Websites with PHP, JS, HTML, CSS, SASS.
 🔭 I work at the Moment at [HLI](https://hli.ch/) on plenty different Websites but mainly our own Content Management System.<br>
 💥 I've started Programming when I was 11 years old in java trying to create a hack client for minecraft (spoiler didn't work).
 
-P.S. Not a lot of activity here cause I have a selfhosted gitlab and at work we use a selfhosted gitlab.
-
 <p align="center" >
     <img src="https://github-readme-stats.vercel.app/api?username=t-d3v&count_private=true&show_icons=true&include_all_commits=true&bg_color=00000000&text_color=7a7a7a"/>
 </p>
