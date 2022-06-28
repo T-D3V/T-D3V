@@ -7,6 +7,8 @@ Right now I mainly develop Websites with PHP, JS, HTML, CSS, SASS.
 🔭 I work at the Moment at [HLI](https://hli.ch/) on plenty different Websites but mainly our own Content Management System.<br>
 💥 I've started Programming when I was 11 years old in java trying to create a hack client for minecraft (spoiler didn't work).
 
+Github is not that active, since work repos are in a self hosted gitlab instance.
+
 <p align="center" >
     <img src="https://github-readme-stats.vercel.app/api?username=t-d3v&count_private=true&show_icons=true&include_all_commits=true&bg_color=00000000&text_color=7a7a7a"/>
 </p>
@@ -18,6 +20,6 @@ Right now I mainly develop Websites with PHP, JS, HTML, CSS, SASS.
 ### 📯 How to reach me:
   - [Mail](mailto:timo.angst@bluewin.ch)
   - [LinkedIn](https://www.linkedin.com/in/timo-angst-279776231/)
-  - Discord: TD3V#0404
+  - Discord: TD3V#0001
 
 <a href="https://stackoverflow.com/users/15684495/td3v"><img src="https://stackoverflow.com/users/flair/15684495.png?theme=dark" width="208" height="58" alt="profile for TD3V at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for TD3V at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
