@@ -8,8 +8,8 @@ Right now I mainly develop Websites with PHP, JS, HTML, CSS, SASS.
 💥 I've started Programming when I was 11 years old in java trying to create a hack client for minecraft (spoiler didn't work).
 
 Skills: PHP, Doctrine, JS, HTML, CSS, Docker, Docker Compose<br>
-Learning: T3-Stack, coding wordpress plugin, sveltekit, ypthon<br>
-Interests: Web Development, PWAs, Cybersecurity, Backend, Linux
+Learning: T3-Stack, coding wordpress plugin, sveltekit, python<br>
+Interests: Web Development, PWAs, Cybersecurity, Backend, Linux, rust
 
 ### 📯 How to reach me:
   - [Mail](mailto:td3v@voicesofwynn.com)
