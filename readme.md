@@ -12,8 +12,8 @@ Learning: T3-Stack, coding wordpress plugin, sveltekit, python<br>
 Interests: Web Development, PWAs, Cybersecurity, Backend, Linux, rust
 
 ### 📯 How to reach me:
-  - [Mail](mailto:td3v@voicesofwynn.com)
-  - Discord: TD3V#0001
+  - [Mail](mailto:td3v+git@td3v.ch)
+  - Discord: TD3V
 
 <a href="https://stackoverflow.com/users/15684495/td3v"><img src="https://stackoverflow.com/users/flair/15684495.png?theme=dark" width="208" height="58" alt="profile for TD3V at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for TD3V at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
